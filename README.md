@@ -121,17 +121,6 @@ The app will open in your default web browser at `http://localhost:8501`
 - Some data might not be available for all stocks
 - This is for educational purposes only - not financial advice
 
-## 🔄 Comparison with Original Script
-
-The original `stock_retriver.py` provided basic analysis in text format. This Streamlit app enhances it with:
-
-- **Visual Interface**: No more command-line interaction
-- **Interactive Charts**: Beautiful, zoomable, interactive visualizations
-- **Real-time Updates**: Live data with caching
-- **Multiple Stocks**: Compare several stocks at once
-- **Export Options**: Download data in various formats
-- **Enhanced Analysis**: More technical indicators and metrics
-- **Better UX**: Progress bars, error handling, responsive design
 
 ## 🤝 Contributing
 
